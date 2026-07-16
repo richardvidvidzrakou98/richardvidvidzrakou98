@@ -20,9 +20,9 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,7 +35,7 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-### ⚙️ Backend & Web Development
+### Backend & Web Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -48,7 +48,7 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-### 💾 Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -56,7 +56,7 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-### 🤖 AI & Automation
+### AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -65,7 +65,7 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -75,7 +75,7 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Richie-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
