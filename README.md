@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard Vidzrakou</h1>
 
 <h3 align="center">
-Software Engineer | AWS Cloud Engineer | Full Stack Developer
-</h3>
+Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
@@ -19,5 +18,5 @@ Software Engineer | AWS Cloud Engineer | Full Stack Developer
 ## 📫 Connect with Me
 
 - LinkedIn: _https://www.linkedin.com/in/richard-vidzrakou/_
-- Portfolio: _portfolio.vidzrakou.com_
+- Portfolio: _https://portfolio.vidzrakou.com_
 - Email: _richardvidzrakou98@gmail.com_
