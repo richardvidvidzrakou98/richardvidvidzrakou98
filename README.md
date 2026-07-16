@@ -10,6 +10,16 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
 
 ---
 
+## 👨‍💻 About Me
+
+- 🌍 Based in Ghana
+- 💼 Backend Engineer
+- ☁️ AWS Cloud Engineer
+- 🤖 Building AI-powered applications
+- 🚀 Passionate about scalable software and cloud technologies
+
+---
+
 ## 📫 Connect with Me
 
 - LinkedIn: _https://www.linkedin.com/in/richard-vidzrakou/_
