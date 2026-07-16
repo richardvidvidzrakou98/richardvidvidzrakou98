@@ -82,16 +82,6 @@ Software Engineer (Web) | Cloud Engineer | DevOps & AI
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richie-coder&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
-## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/richard-vidzrakou](https://www.linkedin.com/in/richard-vidzrakou/)
-- Portfolio: [portfolio.vidzrakou.com](https://portfolio.vidzrakou.com)
-- Email: richardvidzrakou98@gmail.com
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Richie-coder&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile Views" />
 </div>
